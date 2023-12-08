@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Max",
+      "age": 23,
+			"gender": "men"
+    },
+    {
+      "id": 2,
+      "name": "Sanjar",
+      "age": 25,
+			"gender": "men"
+    },
+		{
+      "id": 3,
+      "name": "Oleg",
+      "age": 28,
+			"gender": "men"
+    },
+		{
+      "id": 4,
+      "name": "Olga",
+      "age": 34,
+			"gender": "women"
+    },
+		{
+      "id": 5,
+      "name": "Katy",
+      "age": 30,
+			"gender": "women"
+    },
+		{
+      "id": 6,
+      "name": "Max",
+      "age": 30,
+			"gender": "men"
+    }
+    
+  ]
+}
